@@ -1,0 +1,19 @@
+{
+  "name": "Enter The Sandstorm",
+  "version": "0.1.0",
+  "namespace": "Taimi.EnterTheSandstorm",
+  "package": "EnterTheSandstorm.dll",
+  "manifest_version": 1,
+
+  "description": "Are you ready for the Sandstorm?",
+  "dependencies": {
+    "bh.blishhud": ">=0.5.2"
+  },
+  "url": "https://github.com/OpNop/EnterTheSandstorm",
+  "contributors": [
+    {
+      "name": "Tiny Taimi",
+      "username": "NullValue.4956"
+    }
+  ]
+}
